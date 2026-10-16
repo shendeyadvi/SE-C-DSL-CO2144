@@ -7,10 +7,10 @@ This repository contains C programs for my college Data Structure lab practicals
 | File | Topic |
 |---|---|
 | `practical1.c` | Array operations, searching, and sorting |
-| `practical2.c` | Queue implementation |
+| `practical2.c` | Contact management using a linked list |
 | `practical3.c` | Bubble sort |
 | `parctical4.c` | Browser navigation using stacks |
-| `practical5.c` | Contact management using a linked list |
+| `practical5.c` | Queue implementation |
 
 ## Compile and run
 
