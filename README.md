@@ -13,6 +13,7 @@ This repository contains C programs for the Data Structures and Algorithms labor
 | 5 | [`practical5.c`](practical5.c) | Hospital patient queue using a linear array |
 | 6 | [`practical6.c`](practical6.c) | Student record management using a binary search tree |
 | 7 | [`practical7.c`](practical7.c) | Undirected graph with breadth-first and depth-first traversal |
+| 8 | [`practical8.c`](practical8.c) | Library book IDs using a hash table with linear probing |
 
 ## Requirements
 
@@ -59,5 +60,6 @@ gcc practical6.c -o practical6
 |-- practical5.c
 |-- practical6.c
 |-- practical7.c
+|-- practical8.c
 `-- output/
 ```
