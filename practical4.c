@@ -34,7 +34,7 @@ int main() {
 
             //Visit new page
             case 1:
-                printf("Enter page name: \n");
+                printf("Enter page name: ");
                 scanf("%s", newPage);
 
                 backTop++;
@@ -44,7 +44,7 @@ int main() {
 
                 forwardTop = -1;
 
-                printf("Current page: %s\n", currentPage);
+                printf("\nCurrent page: %s\n", currentPage);
                 break;
 
             //Back navigation
